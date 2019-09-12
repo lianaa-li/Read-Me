@@ -131,8 +131,8 @@ li a:hover {
     color: rgb(202, 82, 138);
 }
 
-#aboutme ul li {
-    list-style-type: circle;
+#aboutme{
+    background-color: rgb(48, 29, 70);
 }
 
 #portfolio {
